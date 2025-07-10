@@ -1,14 +1,6 @@
 # GIDC - Modified for supporting TensorFlow 2.10
 > Forked from [GIDC](https://github.com/FeiWang0824/GIDC) by [FeiWang0824](https://github.com/FeiWang0824)
 ## Installation guide
-### Step 1: Creating the environment
-**1.**
-1. make sure you have anaconda on your PC.
-2. run `conda env create -f environment.yml`
-
-
-
-### Step 1: Creating the environment
 1.  **Download files from github**
       * Using the git bash (recommended)
 
