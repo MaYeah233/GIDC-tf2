@@ -9,8 +9,8 @@
     ```
       * Or you can just download the `.zip` file and unzip it.
 2.  **Open the Anaconda terminal**：
-      * For Windows, open **Anaconda Prompt**。
-      * For Linux, open **Terminal**。
+      * For Windows, open **Anaconda Prompt**.
+      * For Linux, open **Terminal**.
 3.  **Navigate to the file directory**：
     Use the `cd` command to switch to the folder where you have the project. For example:
 
