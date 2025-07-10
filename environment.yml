@@ -1,4 +1,4 @@
-name: gidc2
+name: gidc
 channels:
   - conda-forge
   - defaults
